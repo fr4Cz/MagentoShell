@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Pwn_Shell</name>
+    <version>1.0.0</version>
+    <stability>beta</stability>
+    <license>mit</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>pwnshell</summary>
+    <description>pwnshell</description>
+    <notes>pwnshell</notes>
+    <authors><author><name>Bentob0x</name><user>Bentob0x</user><email>na@na.com</email></author></authors>
+    <date>2019-05-18</date>
+    <time>18:47:09</time>
+    <contents><target name="magecommunity"><dir name="modules"><file name="Pwn_Shell.xml" md5sum="6b62b542b4c3a673f190f659069d2992" role="mageetc" /></dir><dir name="Pwn"><dir name="Shell"><dir name="controllers"><file name="ShellController.php" md5sum="bbdf20956857ba5d01d5d26bb68d664c" role="magecommunity" /></dir><dir name="etc"><file name="config.xml" md5sum="e118603c9cd2b19e6cf8be01763eb967" role="magecommunity" /></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.5.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
