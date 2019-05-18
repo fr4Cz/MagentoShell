@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Pwn_Shell>
+			<version>1.0.0</version>
+		</Pwn_Shell>
+	</modules>
+	<frontend>
+		<routers>
+			<pwnie>
+				<use>standard</use>
+				<args>
+					<module>Pwn_Shell</module>
+					<frontName>pwnie</frontName>
+				</args>
+			</pwnie>
+		</routers>
+	</frontend>
+</config>
