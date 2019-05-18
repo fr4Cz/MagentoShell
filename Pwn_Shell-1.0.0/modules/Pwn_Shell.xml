@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Pwn_Shell>
+			<active>True</active>
+			<codePool>community</codePool>
+		</Pwn_Shell>
+	</modules>
+</config>
